@@ -15,7 +15,7 @@
 		<header>
 			<div class="row">
 				<div class="col-sm">
-					<h1>Jugos</h1>
+					<h1>Videojuegos</h1>
 				</div>
 				<div class="col-sm">
 					<a href="/formulario-login" class="btn" >Login</a>
